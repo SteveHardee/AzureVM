@@ -51,7 +51,7 @@
         "VM4Name": "Server2012R2",
         "VM5Name": "Win11",
         "VM6Name": "Win10",
-        "VM7Name": "Win11",
+        "VM7Name": "Win7",
         "DomainDNSName": "contoso.com",
         "DomainNetBIOSName": "contoso",
         "DomainDN": "DC=contoso,DC=com",
